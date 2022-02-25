@@ -1,0 +1,6 @@
+name = "tik-tok-api"
+type = "javascript"
+account_id = "7f044b01ec27e7fc755b8dd87d5d59b9"
+workers_dev = true
+route = ""
+zone_id = ""
